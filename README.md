@@ -2,7 +2,7 @@
 
 ![Jest Logo](https://github.com/d3vkk/jest-demo/blob/master/jest-logo.png)
 
-Jest Testing Framework from Official Docs
+Jest Testing Framework Demo from Official Docs
 
 [Official Docs](https://jestjs.io/docs/en/getting-started.html)
 
